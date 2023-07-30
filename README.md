@@ -5,16 +5,10 @@
 👋 Hey there, I'm Tyreece, an enthusiastic Front-End Developer with a passion for crafting immersive web experiences. My expertise lies in HTML, CSS, and JavaScript, and I take pride in creating pixel-perfect user interfaces that seamlessly blend aesthetics with functionality. With a focus on performance and responsiveness, I strive to deliver delightful web solutions that leave a lasting impact. Always eager to learn and stay updated on industry trends, I'm determined to turn ideas into reality and make a meaningful impact in the digital world. Let's connect and explore the exciting possibilities in the realm of web development! 🌐🚀
 
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/tyreece-leishman/">
-         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="?logo=mylinkedin"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="?logo=mylinkedin"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/tyreece-leishman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tyreece-leishman" height="30" width="40" /></a>
+</p>
 
 ---
 
