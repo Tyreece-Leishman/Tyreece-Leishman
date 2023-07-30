@@ -7,7 +7,7 @@
 
    <p align="left">
       <a href="https://www.linkedin.com/in/tyreece-leishman/">
-         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" width="132px" height="28px"/></a> 
+         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="?logo=mylinkedin"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="?logo=mylinkedin"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
