@@ -22,14 +22,11 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-
+---
 
 ### 📊 Stats
 
-
-[![](https://raw.githubusercontent.com/Tyreece-Leishman/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/Tyreece-Leishman/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Tyreece-Leishman/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/Tyreece-Leishman/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tyreece-Leishman/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/Tyreece-Leishman/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Tyreece-Leishman/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/Tyreece-Leishman/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tyreece-Leishman/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/Tyreece-Leishman/github-profile-summary-cards)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman&theme=radical)
 
 
 #
