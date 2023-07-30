@@ -22,16 +22,15 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-#
 
-
-#
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 #
 
@@ -39,5 +38,4 @@
  <summary><h3>🚀Coding Journey</h3></summary>
  🚀 My coding journey started with Scratch, a website that sparked my interest for technology with its user-friendly interface.  Choosing an IT course in college deepened my interest in the industry, leading me to discover web development through freecodecamp. 💻 I've been following their curriculum, learning HTML, CSS, JavaScript, and more. 📚 The hands-on experience and real-life projects have been incredibly rewarding, fuelling my passion for web development. 🔥 From humble beginnings with Scratch to exploring the vast possibilities of coding, I am excited for the future and eager to make a positive impact in the world of technology. 🌎
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+
