@@ -4,10 +4,8 @@
 
 👋 Hey there, I'm Tyreece, an enthusiastic Front-End Developer with a passion for crafting immersive web experiences. My expertise lies in HTML, CSS, and JavaScript, and I take pride in creating pixel-perfect user interfaces that seamlessly blend aesthetics with functionality. With a focus on performance and responsiveness, I strive to deliver delightful web solutions that leave a lasting impact. Always eager to learn and stay updated on industry trends, I'm determined to turn ideas into reality and make a meaningful impact in the digital world. Let's connect and explore the exciting possibilities in the realm of web development! 🌐🚀
 
-
-   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tyreece-leishman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tyreece-leishman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tyreece-leishman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tyreece-leishman" height="30" width="40" /></a>
 </p>
 
 ---
