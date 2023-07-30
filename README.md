@@ -7,7 +7,7 @@
 
    <p align="left">
       <a href="https://www.linkedin.com/in/tyreece-leishman/">
-         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Flinkedin-logo%2F&psig=AOvVaw2oxvDY6euq-pK5n2rXcKlc&ust=1690811471269000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNi62tvJtoADFQAAAAAdAAAAABAE"/></a> 
+         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
