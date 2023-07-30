@@ -1,8 +1,9 @@
-# 🏄‍♂️ Forrest Knight
+# 💥 Tyreece Leishman
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Web developer (HTML/CSS/JavaScript)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+👋 Hey there, I'm Tyreece, an enthusiastic Front-End Developer with a passion for crafting immersive web experiences. My expertise lies in HTML, CSS, and JavaScript, and I take pride in creating pixel-perfect user interfaces that seamlessly blend aesthetics with functionality. With a focus on performance and responsiveness, I strive to deliver delightful web solutions that leave a lasting impact. Always eager to learn and stay updated on industry trends, I'm determined to turn ideas into reality and make a meaningful impact in the digital world. Let's connect and explore the exciting possibilities in the realm of web development! 🌐🚀
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
