@@ -8,7 +8,7 @@
 
 Hi there! I'm an aspiring Front-end Web Developer with a passion for crafting visually appealing and user-friendly websites. Skilled in HTML, CSS, and JavaScript  and can build responsive websites that seamlessly adapt to various devices. I am also skilled in debugging and testing, ensuring robust and reliable code.
 
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p><a href="https://github.com/Tyreece-Leishman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></a> <a href="https://www.linkedin.com/in/tyreece-leishman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 <p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
