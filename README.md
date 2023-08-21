@@ -20,7 +20,7 @@ Hi there! I'm an aspiring Front-end Web Developer with a passion for crafting vi
 
 ### 📊 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kenji188&theme=radical)
+<img src="https://camo.githubusercontent.com/a086ae52d3bc5f63a5a4f6e62ed38d60ed01c2e0096d7ecb802b104f49767e4a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d6461726b2367682d6461726b2d6d6f64652d6f6e6c79" alt="Anurag's GitHub stats-Dark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" style="max-width: 100%;">
 
 
 #
