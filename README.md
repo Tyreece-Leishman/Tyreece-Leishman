@@ -19,7 +19,7 @@ Hi there! I'm an aspiring Front-end Web Developer with a passion for crafting vi
 <br/>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman&show_icons=true&theme=cobalt)
 
 
 #
