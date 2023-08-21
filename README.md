@@ -2,7 +2,7 @@
 
 **`Aspiring Front-end Web Developer ( 🌐 HTML | 🎨 CSS | 🚀 JavaScript |📱 Responsive Web Design | 🛠️ Problem-Solving |🐞 Debugging | 🧪 Testing |🔧 Version Control)`**
 
-👋 Hello! I'm a Aspiring Front-end Web Developer with a passion for crafting visually stunning and user-friendly websites. 🌐✨ Skilled in HTML, CSS, and JavaScript, I create interactive and responsive web experiences. 📱💻 I am also skilled in debugging and testing, ensuring robust and reliable code. 🧪📝 Let's connect and bring web technologies into action! 🌟💻
+##👋 Hello! I'm a Aspiring Front-end Web Developer with a passion for crafting visually stunning and user-friendly websites. 🌐✨ Skilled in HTML, CSS, and JavaScript, I create interactive and responsive web experiences. 📱💻 I am also skilled in debugging and testing, ensuring robust and reliable code. 🧪📝 Let's connect and bring web technologies into action! 🌟💻
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
