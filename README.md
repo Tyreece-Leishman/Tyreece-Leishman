@@ -25,7 +25,7 @@ Hi there! I'm an aspiring Front-end Web Developer with a passion for crafting vi
 #
 
 <details>
- <summary><h3>🚀Coding Journey</h3></summary>
+ <summary><h3>🧠Coding Journey</h3></summary>
 
 My coding journey has been an interesting journey, one that started with the building blocks of the web HTML through I learnt with Freecodecamp. I remember crafting my first cat photo app, as I began understanding the structuring of content. Next I explored some CSS by crafting a coffee menu, honing my skills in styling and design. As I learnt more and more I developed  a solid grasp of HTML and CSS and worked various projects which can be found in my repositories ,  I experimented with JavaScript by adding functionality to my projects. 
 
