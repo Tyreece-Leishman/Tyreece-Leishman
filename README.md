@@ -2,7 +2,7 @@
 
 #
 
-**Aspiring Front-end Web Developer ( 🌐 HTML | 🎨 CSS | 🚀 JavaScript |📱 Responsive Web Design | 🛠️ Problem-Solving |🐞 Debugging | 🧪 Testing |🔧 Version Control)**
+**Aspiring Front-end Web Developer (  HTML | 🎨 CSS |  JavaScript |📱 Responsive Web Design |  Problem-Solving | Debugging |  Testing | Version Control)**
 
 #
 
@@ -25,7 +25,7 @@ Hi there! I'm an aspiring Front-end Web Developer with a passion for crafting vi
 #
 
 <details>
- <summary><h3>🧠Coding Journey</h3></summary>
+ <summary><h3>Coding Journey</h3></summary>
 
 My coding journey has been interesting, it started with the building blocks of the web HTML through I learnt with freecodecamp. I remember crafting my first cat photo app, as I began understanding the structuring of content. Next, I explored some CSS by crafting a coffee menu, honing my skills in styling and design. As I learnt more and more I developed a solid grasp of HTML and CSS and worked on various projects which can be found in my repositories. lastly I experimented with JavaScript by adding functionality to my projects. 
 
