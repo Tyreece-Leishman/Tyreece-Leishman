@@ -2,7 +2,7 @@
 
 #
 
-**Aspiring Front-end Web Developer (  HTML | 🎨 CSS |  JavaScript |📱 Responsive Web Design |  Problem-Solving | Debugging |  Testing | Version Control)**
+**Aspiring Front-end Web Developer (  HTML |  CSS |  JavaScript | Responsive Web Design |  Problem-Solving | Debugging |  Testing | Version Control)**
 
 #
 
