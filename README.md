@@ -17,6 +17,7 @@ Hello, I'm Tyreece, an aspiring front-end developer with a strong foundation in 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    
 </br>
+</br>
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
