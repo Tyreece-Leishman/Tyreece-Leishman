@@ -7,7 +7,6 @@
 
 ---
 
-**Connect with me**
    <p align="left">
      <a href="https://www.linkedin.com/in/tyreece-leishman/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/tyreece-leishman/" /></a>
          
@@ -18,6 +17,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    
+---
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
