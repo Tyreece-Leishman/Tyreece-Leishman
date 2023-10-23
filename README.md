@@ -20,6 +20,10 @@ Hello, I'm Tyreece Leishman, an aspiring front-end developer with a strong found
 
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyreece-leishman&size_weight=0.5&count_weight=0.5icons=true&theme=transparent)
+
+<br />
+
 ---
 
 <details>
