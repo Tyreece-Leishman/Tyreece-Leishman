@@ -5,7 +5,7 @@
 Hello, I'm Tyreece, an aspiring front-end developer with a strong foundation in HTML, CSS, and JavaScript. Additionally, I possess a solid grasp of the essential principles that underlie the World Wide Web, and I'm skilled in applying responsive web design practices, ensuring websites appear and perform seamlessly on a variety of devices and screen sizes.
 
    <p align="left">
-     <a href="https://linkedin.com/in/https://www.linkedin.com/in/tyreece-leishman/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/tyreece-leishman/" /></a>
+     <a href="https://www.linkedin.com/in/tyreece-leishman/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/tyreece-leishman/" /></a>
          
    </p>
 
