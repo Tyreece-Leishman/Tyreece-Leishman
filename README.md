@@ -21,13 +21,6 @@ Hello, I'm Tyreece, an aspiring front-end developer with a strong foundation in 
 
 #
 
-
-
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
 ### 
 
 
