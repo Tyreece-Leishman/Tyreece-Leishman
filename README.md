@@ -1,9 +1,11 @@
 # Tyreece Leishman
 
 **`Aspiring Front-end Web Developer | HTML | CSS | JavaScript | Responsive Web Design | Problem-Solving |  Debugging | Testing |  Version Control`**
+---
 
-Hello, I'm Tyreece, an aspiring front-end developer with a strong foundation in HTML, CSS, and JavaScript. Additionally, I possess a solid grasp of the essential principles that underlie the World Wide Web, and I'm skilled in applying responsive web design practices, ensuring websites appear and perform seamlessly on a variety of devices and screen sizes.
+# Hello, I'm Tyreece, an aspiring front-end developer with a strong foundation in HTML, CSS, and JavaScript. Additionally, I possess a solid grasp of the essential principles that underlie the World Wide Web, and I'm skilled in applying responsive web design practices, ensuring websites appear and perform seamlessly on a variety of devices and screen sizes.
 
+---
 
 **Connect with me**
    <p align="left">
