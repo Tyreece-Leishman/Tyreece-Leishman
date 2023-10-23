@@ -29,11 +29,9 @@ Hello, I'm Tyreece Leishman, an aspiring front-end developer with a strong found
 
 <details>
   <summary><h3>🧠 Coding Journey</h3></summary>
-  I started my coding journey as a curious computer science student with a passion to explore the world of programming. My initial interests included iOS development, but soon, I delved into Java, landing a full-stack software engineering job after graduation.
+My coding journey began when I right-clicked to inspect an element for the first time, without fully understanding its significance. I then searched online and learned how to modify text and change colors on a website. It was an exciting way to impress my friends. However, when I refreshed the page, all my changes reverted to their original state. This piqued my interest in creating my own website.
 
-  However, another passion emerged - YouTube content creation. I decided to take the leap and focus on YouTube full-time, which has been my primary endeavor since.
+I turned to Google for guidance on how to build a website for beginners, and that's when I discovered FreeCodeCamp. This website provided a step-by-step guide to web development, and it was there that I learned HTML and CSS. I also turned to YouTube to explore what more I could do with these languages, and that's when I stumbled upon the FreeCodeCamp YouTube channel, which proved to be a great resource that I continue to use.
 
-  Throughout my journey, one dream always lingered - to build my own app or product. It's time to get uncomfortable and pursue that dream. In 2023, I'll be taking steps to turn that dream into a reality.
-
-  Stay tuned, because I'm coming back to my roots as a developer and creator.
+As I progressed, I started working on independent projects to enhance my skills. Finally, I purchased a book titled 'Responsive Web Design,' and I'm currently working through the exercises in the book to learn best practices for responsive web design.
 </details>
