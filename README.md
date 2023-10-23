@@ -17,11 +17,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-[![Profile Details](https://raw.githubusercontent.com/Tyreece-Leishman/Tyreece-Leishman/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Repos Per Language](https://raw.githubusercontent.com/Tyreece-Leishman/Tyreece-Leishman/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Most Commit Language](https://raw.githubusercontent.com/Tyreece-Leishman/Tyreece-Leishman/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Stats](https://raw.githubusercontent.com/Tyreece-Leishman/Tyreece-Leishman/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Productive Time](https://raw.githubusercontent.com/Tyreece-Leishman/Tyreece-Leishman/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman_icons=true&theme=transparent)
 
 
 </br>
