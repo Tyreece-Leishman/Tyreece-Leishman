@@ -28,7 +28,7 @@ Hello, I'm Tyreece Leishman, an aspiring front-end developer with a strong found
 ---
 
 <details>
-  <summary><h3>👨‍💻 Tyreece's Coding Journey</h3></summary>
+  <summary><h3>🧠 Coding Journey</h3></summary>
   I started my coding journey as a curious computer science student with a passion to explore the world of programming. My initial interests included iOS development, but soon, I delved into Java, landing a full-stack software engineering job after graduation.
 
   However, another passion emerged - YouTube content creation. I decided to take the leap and focus on YouTube full-time, which has been my primary endeavor since.
