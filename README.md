@@ -1,3 +1,6 @@
+![image](https://github.com/Tyreece-Leishman/Tyreece-Leishman/assets/116001061/2b8f1526-f5dd-4177-9b54-52a97ea8307d)
+
+
 **`Aspiring Front-end Web Developer | HTML | CSS | JavaScript | Responsive Web Design | Problem-Solving | Debugging | Testing | Version Control`**
 ---
 
