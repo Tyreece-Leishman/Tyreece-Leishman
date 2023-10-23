@@ -1,33 +1,9 @@
-![image](https://github.com/Tyreece-Leishman/Tyreece-Leishman/assets/116001061/79aa33fe-1986-49ac-b08c-be900ab3da25)
+<h1 align="center">Hi 👋, I'm Tyreece</h1>
+<h3 align="center">An aspiring front-end developer with a strong foundation in HTML, CSS, and JavaScript. Additionally, I possess a solid grasp of the essential principles that underlie the World Wide Web, and I'm skilled in applying responsive web design practices, ensuring websites appear and perform seamlessly on a variety of devices and screen sizes.</h3>
 
-
-
-#
-
-**Aspiring Front-end Web Developer (  HTML |  CSS |  JavaScript | Responsive Web Design |  Problem-Solving | Debugging |  Testing | Version Control)**
-
-#
-
-Hi there! I'm an aspiring Front-end Web Developer with a passion for crafting visually appealing and user-friendly websites. Skilled in HTML, CSS, and JavaScript  and can build responsive websites that seamlessly adapt to various devices. I am also skilled in debugging and testing, ensuring robust and reliable code.
-
-<p><a href="https://github.com/Tyreece-Leishman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></a> <a href="https://www.linkedin.com/in/tyreece-leishman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-<p>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</p>
-<br/>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman&show_icons=true&theme=transparent)
-
-
-#
-
-<details>
- <summary><h3>Coding Journey</h3></summary>
-
-My coding journey has been interesting, it started with the building blocks of the web HTML through I learnt with freecodecamp. I remember crafting my first cat photo app, as I began understanding the structuring of content. Next, I explored some CSS by crafting a coffee menu, honing my skills in styling and design. As I learnt more and more I developed a solid grasp of HTML and CSS and worked on various projects which can be found in my repositories. lastly I experimented with JavaScript by adding functionality to my projects. 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
