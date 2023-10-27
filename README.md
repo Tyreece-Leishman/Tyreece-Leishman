@@ -35,7 +35,7 @@ Hello, I'm Tyreece Leishman, an aspiring front-end developer with a strong found
 ---
 
 <details>
-  <summary><h3>📌Coding Journey</h3></summary>
+  <summary><h3>📌 Coding Journey</h3></summary>
 My coding journey began when I right-clicked to inspect an element for the first time, without fully understanding its significance. I then searched online and learned how to modify text and change colors on a website. It was an exciting way to impress my friends. However, when I refreshed the page, all my changes reverted to their original state. This piqued my interest in creating my own website. I turned to Google for guidance on how to build a website for beginners, and that's when I discovered FreeCodeCamp. 
 <br /> 
 <br /> 
