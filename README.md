@@ -1,4 +1,4 @@
-# 🏄‍♂️ Tyreece Leishman
+# ![image](https://github.com/Tyreece-Leishman/Tyreece-Leishman/assets/116001061/dfad8c9b-35b2-471c-9ce6-3eb6b55ae15e) Tyreece Leishman
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
