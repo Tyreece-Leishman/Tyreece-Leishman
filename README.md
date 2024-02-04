@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/Tyreece-Leishman/Tyreece-Leishman/assets/116001061/a02a9da7-c86a-4f72-86c0-7706a5fbdb88)
+![github-header-image (1)](https://github.com/Tyreece-Leishman/Tyreece-Leishman/assets/116001061/b405629f-eb4f-4b98-9f44-77853259969d)
+
 
 # 💫 About Me:
 🚀 Aspiring developer with a strong understanding of HTML, CSS, JavaScript and Python dedicated to developing fully-fledged websites and web apps 🔧, while also learning the latest technologies and frameworks. 🌐
