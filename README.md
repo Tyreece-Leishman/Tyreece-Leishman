@@ -17,8 +17,6 @@ Aspiring  developer with a strong foundation in HTML, CSS, and JavaScript. Passi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tyreece-leishman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tyreece-leishman&icon=0&color=0)](https://visitcount.itsvg.in)
