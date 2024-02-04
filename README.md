@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring developer with a strong understanding <br>of HTML, CSS, JavaScript and Python<br> dedicated to developing fully-fledged websites<br> and web apps 🔧, while also learning the <br>latest technologies and frameworks. 🌐
+🚀 Aspiring developer with a strong understanding of HTML, CSS, JavaScript and Python dedicated to developing fully-fledged websites and web apps 🔧, while also learning the latest technologies and frameworks. 🌐
 
 
 ## 🌐 Socials:
