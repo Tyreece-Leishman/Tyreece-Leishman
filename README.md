@@ -1,8 +1,8 @@
 # 🚀 Tyreece Leishman
 
-**`Passionate Front-End Developer`**
+**`Aspiring Developer`**
 
-I'm a dedicated front-end developer with a passion for crafting seamless and visually appealing web experiences. From conceptualization to implementation, I take pride in building websites and web apps that not only meet but exceed user expectations. Constantly on the lookout for the latest technologies and frameworks to stay ahead in the ever-evolving digital landscape.
+Aspiring developer with a strong understanding of HTML, CSS, JavaScript and Python dedicated to developing fully-fledged websites and web apps, while also learning the latest technologies and frameworks. 
 
 <p align="left">
    <a href="https://linkedin.com/in/tyreece-leishman">
