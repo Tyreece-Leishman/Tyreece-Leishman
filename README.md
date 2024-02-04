@@ -1,10 +1,10 @@
 # Hi there, I'm Tyreece! 👋
 
-**`Developer (HTML|CSS|JavaScript|Git|SQL|Python|Swift|AWS)`**
+**`Developer (HTML|CSS|JavaScript|Python)`**
 
 # About me
 
-🚀 I'm an aspiring developer skilled in HTML, CSS, and JavaScript for building dynamic web applications. I'm experienced with Git for efficient code management and use SQL for database tasks. Python is my go-to for scripting, automation, and data science. In mobile development, I use Swift for iOS apps. I'm also familiar with AWS for deploying and scaling applications. This skill set equips me to handle various challenges in software development. 💻🌐📊
+🚀 Aspiring developer with a strong understanding of HTML, CSS, JavaScript and Python dedicated to developing fully-fledged websites and web apps 🔧, while also learning the latest technologies and frameworks. 🌐
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
