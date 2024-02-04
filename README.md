@@ -21,10 +21,6 @@ I'm a dedicated front-end developer with a passion for crafting seamless and vis
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <br />
 
 ---
@@ -35,18 +31,4 @@ I'm a dedicated front-end developer with a passion for crafting seamless and vis
 
 ---
 
-### 📺 Latest Projects
 
-<!-- BEGIN GITHUB-CARDS -->
-[![Project 1](https://ghcards.demolab.com/?username=Tyreece-Leishman&repo=project-1&title=Project+1&description=A+short+description+of+Project+1.&color=%23ff6464&icon=python&border_radius=5&lang=en&hide_border=false "Project 1")](https://github.com/Tyreece-Leishman/project-1)
-[![Project 2](https://ghcards.demolab.com/?username=Tyreece-Leishman&repo=project-2&title=Project+2&description=A+short+description+of+Project+2.&color=%23ff6464&icon=javascript&border_radius=5&lang=en&hide_border=false "Project 2")](https://github.com/Tyreece-Leishman/project-2)
-[![Project 3](https://ghcards.demolab.com/?username=Tyreece-Leishman&repo=project-3&title=Project+3&description=A+short+description+of+Project+3.&color=%23ff6464&icon=react&border_radius=5&lang=en&hide_border=false "Project 3")](https://github.com/Tyreece-Leishman/project-3)
-<!-- END GITHUB-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-More%20Projects-orange?style=for-the-badge&logo=star&logoColor=white"/>](https://github.com/Tyreece-Leishman?tab=repositories)
-
----
-
-### 📝 Let's Connect!
-
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/tyreece-leishman) or explore more on [GitHub](https://github.com/Tyreece-Leishman). Let's collaborate and create amazing web experiences together! 🚀
