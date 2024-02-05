@@ -1,6 +1,6 @@
 # 🚀 Tyreece Leishman
 
-**`Aspiring Developer`**
+**`Aspiring Developer (HTML|CSS|JavaScript|Python)`**
 
 Aspiring developer with a strong understanding of HTML, CSS, JavaScript and Python dedicated to developing fully-fledged websites and web apps, while also learning the latest technologies and frameworks. 
 
