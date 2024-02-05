@@ -35,7 +35,8 @@ Aspiring developer with a strong understanding of HTML, CSS, JavaScript and Pyth
  <summary><h3>📌 Coding Journey</h3></summary>
 My coding journey commenced during my time in secondary school when I accidentally stumbled upon the developer tools. Initially perplexed by the code displayed on the screen, I made a determined effort to comprehend it. My first attempt at hands-on coding involved manipulating CSS to change the colours of a webpage. However, my excitement was short-lived as I discovered that the changes did not persist after refreshing the page. This setback only fueled my curiosity and kindled a lasting interest in coding and web development.
    
-<br/>
+<br>
+<br>
    
 Seeking to broaden my understanding, I turned to FreeCodeCamp, where I delved into the basics of HTML and CSS. As I refined my skills, I sought more comprehensive tutorials on YouTube, unlocking the intricacies of JavaScript and Python.
 
