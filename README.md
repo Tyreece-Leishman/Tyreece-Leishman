@@ -19,7 +19,7 @@
 
 ### 🛠️ Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,Kubernetes,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,py)](https://skillicons.dev)
 <br />
 
 ---
