@@ -1,4 +1,4 @@
-# 🚀 Tyreece Leishman
+# ✨ Tyreece Leishman
 
 **`Aspiring DevOps Engineer (CI/CD| Kubernetes| AWS| Bash)`**
 
