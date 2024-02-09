@@ -2,7 +2,7 @@
 
 **`Aspiring Developer (HTML|CSS|JavaScript|Python)`**
 
-Aspiring developer with a strong understanding of HTML, CSS, JavaScript and Python dedicated to developing fully-fledged websites and web apps, while also learning the latest technologies and frameworks. 
+🚀 As an aspiring DevOps engineer, my aim is to streamline the software development lifecycle by nurturing collaboration between development and operations teams. I strive to automate processes, implement continuous integration and delivery pipelines, and optimise infrastructure deployment for efficiency and scalability. Through my dedication to learning new technologies and methodologies, I endeavour to contribute to project success by ensuring rapid and reliable software delivery while maintaining high levels of system reliability and performance. 🛠️
 
 <p align="left">
    <a href="https://linkedin.com/in/tyreece-leishman">
