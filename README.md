@@ -1,6 +1,6 @@
 # 🚀 Tyreece Leishman
 
-**`Aspiring Developer (HTML|CSS|JavaScript|Python)`**
+**`Aspiring DevOps Engineer (CI/CD| Kubernetes| AWS| Bash)`**
 
 🚀 As an aspiring DevOps engineer, my aim is to streamline the software development lifecycle by nurturing collaboration between development and operations teams. I strive to automate processes, implement continuous integration and delivery pipelines, and optimise infrastructure deployment for efficiency and scalability. Through my dedication to learning new technologies and methodologies, I endeavour to contribute to project success by ensuring rapid and reliable software delivery while maintaining high levels of system reliability and performance. 🛠️
 
