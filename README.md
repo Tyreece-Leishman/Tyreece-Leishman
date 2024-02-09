@@ -2,7 +2,7 @@
 
 ![Simple Work LinkedIn Banner](https://github.com/Tyreece-Leishman/Tyreece-Leishman/assets/116001061/a5f24149-02a1-4dbf-a581-17e4594b9895)
 
-**`Aspiring DevOps Engineer (CI/CD| Kubernetes| AWS| Bash)`**
+**`Aspiring DevOps Engineer (CI/CD| Kubernetes| AWS| Bash| Python| Docker)`**
 
 🚀 As an aspiring DevOps engineer, my aim is to streamline the software development lifecycle by nurturing collaboration between development and operations teams. I strive to automate processes, implement continuous integration and delivery pipelines, and optimise infrastructure deployment for efficiency and scalability. Through my dedication to learning new technologies and methodologies, I endeavour to contribute to project success by ensuring rapid and reliable software delivery while maintaining high levels of system reliability and performance. 🛠️
 
