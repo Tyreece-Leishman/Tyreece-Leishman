@@ -29,7 +29,7 @@
 
 ### 📈 GitHub Stats
 
-![Tyreece's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyreece-leishman&show_icons=true&theme=vue-dark)
+![Tyreece's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyreece-leishman&show_icons=true&theme=vue-dark){: style="opacity: 0.5;"}
 
 ---
 
