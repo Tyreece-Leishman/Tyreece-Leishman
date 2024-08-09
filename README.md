@@ -34,8 +34,7 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
 <br />
 
 #
-![image](https://github.com/user-attachments/assets/7d598d78-3a45-45f3-b440-9fcc0e0c4f32)
-
+![games](https://github.com/user-attachments/assets/d6a3474f-a202-4dc3-a868-ddbb1f24d7d4)
 #
 
 ### 📊 Stats
