@@ -34,10 +34,7 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
 <br />
 
 #
-
-https://tenor.com/en-GB/view/games-gif-7390354
-
-
+![image](https://github.com/user-attachments/assets/7d598d78-3a45-45f3-b440-9fcc0e0c4f32)
 
 #
 
