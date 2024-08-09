@@ -1,6 +1,5 @@
 # Tyreece Leishman
 
-![Simple Work LinkedIn Banner](https://github.com/Tyreece-Leishman/Tyreece-Leishman/assets/116001061/a5f24149-02a1-4dbf-a581-17e4594b9895)
 
 **`Aspiring DevOps Engineer (CI/CD| Kubernetes| AWS| Bash| Python| Docker)`**
 
