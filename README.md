@@ -1,5 +1,7 @@
 # Tyreece Leishman
 
+![image](https://github.com/user-attachments/assets/bac9146e-8ca2-4357-b278-b71682e2ec04)
+
 
 **`Aspiring DevOps Engineer (CI/CD| Kubernetes| AWS| Bash| Python| Docker)`**
 
