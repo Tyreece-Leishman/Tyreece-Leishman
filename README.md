@@ -38,7 +38,9 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
 ### 📺 Latest Udemy Courses
 
 <!-- BEGIN YOUTUBE-CARDS -->
-![image](https://github.com/user-attachments/assets/30a838c6-c01b-4c95-9610-c8cc0bfd849d)
+
+![image](https://github.com/user-attachments/assets/41837ba4-5a68-4c03-bd0e-5bebd55b68c1)
+
 
 <!-- END YOUTUBE-CARDS -->
 
