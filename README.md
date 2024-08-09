@@ -2,7 +2,7 @@
 
 **`♾️ Aspiring DevOps Engineer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm an aspiring DevOps Engineer focused on bridging the gap between development and operations. I'm developing my skills in automation, cloud infrastructure, and CI/CD pipelines. With a strong interest in DevOps culture, I'm committed to building scalable, reliable systems that support business goals and drive continuous improvement.
 
 <p align="left">
    <a href="https://www.youtube.com/@tyr.leishman?sub_confirmation=1">
