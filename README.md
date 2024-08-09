@@ -1,33 +1,19 @@
-# Tyreece Leishman
+<h1 align="center">Hi 👋, I'm Tyreece</h1>
+<h3 align="center">An aspiring DevOps from England</h3>
 
-![image](https://github.com/user-attachments/assets/bac9146e-8ca2-4357-b278-b71682e2ec04)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyreece-leishman&label=Profile%20views&color=0e75b6&style=flat" alt="tyreece-leishman" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyreece-leishman" alt="tyreece-leishman" /></a> </p>
 
-**`Aspiring DevOps Engineer (CI/CD| Kubernetes| AWS| Bash| Python| Docker)`**
-
-
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://linkedin.com/in/tyreece-leishman">
-      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0a66c2"/></a> 
-   <a href="https://github.com/Tyreece-Leishman?tab=followers">
-      <img alt="GitHub Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Tyreece-Leishman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/Tyreece-Leishman?tab=repositories&sort=stargazers">
-      <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Tyreece-Leishman?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🛠️ Skills and Tools
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyreece-leishman&show_icons=true&locale=en&layout=compact" alt="tyreece-leishman" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,py)](https://skillicons.dev)
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyreece-leishman&show_icons=true&locale=en" alt="tyreece-leishman" /></p>
 
----
-
-### 📈 GitHub Stats
-
-![Tyreece's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyreece-leishman&show_icons=true&theme=transparent)
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyreece-leishman&" alt="tyreece-leishman" /></p>
