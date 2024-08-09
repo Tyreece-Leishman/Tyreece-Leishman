@@ -1,16 +1,10 @@
-# ✨ Tyreece Leishman
+# Tyreece Leishman
 
 ![Simple Work LinkedIn Banner](https://github.com/Tyreece-Leishman/Tyreece-Leishman/assets/116001061/a5f24149-02a1-4dbf-a581-17e4594b9895)
 
 **`Aspiring DevOps Engineer (CI/CD| Kubernetes| AWS| Bash| Python| Docker)`**
 
-👋 Hi there! I'm Tyreece, a passionate individual with a strong interest in the dynamic field of DevOps engineering. Currently pursuing my studies in Level 3 Information Technology at Hopwood Hall College, I'm on a mission to transition into the world of DevOps.
 
-🖥️ While I may not be a seasoned DevOps pro just yet, my enthusiasm for technology and my dedication to learning have me excited to embark on this journey. I'm drawn to DevOps for its unique blend of development and operations, and I'm eager to delve deeper into its methodologies and practices.
-
-🔍 As I continue to expand my knowledge and skills, I'm actively seeking opportunities to gain hands-on experience and contribute to real-world projects. My goal is to leverage my background in IT to become a proficient DevOps engineer, driving efficiency and innovation in software development and deployment.
-
-📈 Let's connect and explore how my passion for technology and drive for continuous improvement can add value to your team and projects. I'm always open to networking and learning from industry professionals, so feel free to reach out!
 
 <p align="left">
    <a href="https://linkedin.com/in/tyreece-leishman">
