@@ -18,7 +18,7 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
    <a href="https://x.com/tyreece_dev">
    <img alt="X" title="Follow me on X" src="https://custom-icon-badges.demolab.com/twitter/follow/tyreece_dev?color=1DA1F2&labelColor=1A91DA&style=for-the-badge&logo=twitter&logoColor=white&label=Follow"/>
 </a>
-[![X](https://github-readme-twitter.gazf.vercel.app/api?id=tyreece_dev)](https://github.com/gazf/github-readme-twitter)
+[![Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://x.com/tyreece_dev)
 
 
 </p>
