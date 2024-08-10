@@ -40,7 +40,7 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
 
 ### 📊 Stats
 
-![Tyreece's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman&show_icons=true&theme=gruvbox)
+![Tyreece's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman&show_icons=true&theme=gruvbox&bg_color=00000000)
 ![Codewars](https://www.codewars.com/users/Tyreece_l/badges/large) 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tyreece-Leishman&theme=onestar&no-bg=true)
 
