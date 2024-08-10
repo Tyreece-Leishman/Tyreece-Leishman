@@ -34,7 +34,8 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
 <br />
 
 #
-file:///C:/Users/tleis/Downloads/ezgif-7-02781b85dc.webp
+![image](https://github.com/user-attachments/assets/256ac2f9-6215-42f6-90cc-7bcabc0171d2)
+
 #
 
 ### 📊 Stats
