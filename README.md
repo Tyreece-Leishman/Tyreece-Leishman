@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Tyreece
 
-**`♾️ Aspiring DevOps Engineer`**
+**`♾️ Aspiring DevOps Engineer`** ![Codewars](https://www.codewars.com/users/Tyreece40012004/badges/micro)
+
 
 I'm an aspiring DevOps Engineer focused on bridging the gap between development and operations. I'm developing my skills in automation, cloud infrastructure, and CI/CD pipelines. With a strong interest in DevOps culture, I'm committed to building scalable, reliable systems that support business goals and drive continuous improvement.
 
@@ -40,7 +41,7 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
 ### 📊 Stats
 
 ![Tyreece's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman&show_icons=true&theme=gruvbox)
-![Codewars](https://www.codewars.com/users/Tyreece40012004/badges/micro)
+
 
 
 
