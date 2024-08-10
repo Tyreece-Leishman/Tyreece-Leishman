@@ -16,8 +16,9 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://x.com/tyreece_dev">
-   <img alt="Twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/tyreece_dev?color=1DA1F2&labelColor=1A91DA&style=for-the-badge&logo=twitter&logoColor=white&label=Follow"/>
+   <img alt="X" title="Follow me on X" src="https://custom-icon-badges.demolab.com/twitter/follow/tyreece_dev?color=1DA1F2&labelColor=1A91DA&style=for-the-badge&logo=twitter&logoColor=white&label=Follow"/>
 </a>
+
 </p>
 
 
