@@ -7,7 +7,9 @@ I'm an aspiring DevOps Engineer focused on bridging the gap between development 
 
 <p align="left">
    <a href="https://www.youtube.com/@tyr.leishman?sub_confirmation=1">
-      [![Subscribe to my YouTube channel](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7I0wBqMDXbFtR1WXRolc9w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/channel/UC7I0wBqMDXbFtR1WXRolc9w)
+     <a href="https://www.youtube.com/channel/UC7I0wBqMDXbFtR1WXRolc9w" title="Subscribe to my YouTube channel">
+    <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7I0wBqMDXbFtR1WXRolc9w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+</a>
    <a href="https://github.com/Tyreece-Leishman?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Tyreece-Leishman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/Tyreece-Leishman?tab=repositories&sort=stargazers">
