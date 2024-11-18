@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tyreece
 
-**`♾️ Aspiring DevOps Engineer`**
+**`1st Line Support Engineer`**
 
 
 I'm an aspiring DevOps Engineer focused on bridging the gap between development and operations. I'm developing my skills in automation, cloud infrastructure, and CI/CD pipelines. With a strong interest in DevOps culture, I'm committed to building scalable, reliable systems that support business goals and drive continuous improvement.
