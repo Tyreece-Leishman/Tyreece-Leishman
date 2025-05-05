@@ -5,10 +5,6 @@
 1st Line Support Engineer experienced in providing technical support via phone, email, live chat, and other support portals. 
 
 <p align="left">
-   <a href="https://github.com/Tyreece-Leishman?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Tyreece-Leishman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/Tyreece-Leishman?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tyreece-Leishman?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://www.linkedin.com/in/tyreece-leishman/">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
